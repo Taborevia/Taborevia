@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I am a third year student of Algorithmic Computer Science at Wrocław University of Science and Technology. During my studies, I have completed several courses and projects, the list of which is available [here](https://github.com/Taborevia/Studies-projects).
 <!--
 **Taborevia/Taborevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
